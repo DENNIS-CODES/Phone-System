@@ -1,0 +1,27 @@
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\bin\Debug\Mobile Phone System.exe.config
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\bin\Debug\Mobile Phone System.exe
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\bin\Debug\Mobile Phone System.pdb
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\bin\Debug\Mobile Phone System.xml
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.vbprojAssemblyReference.cache
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile_Phone_System.Form1.resources
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile_Phone_System.Form2.resources
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile_Phone_System.Resources.resources
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.vbproj.GenerateResource.cache
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.vbproj.CoreCompileInputs.cache
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.exe
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.xml
+N:\VSStudio\Projects\BTEC L3 RQF\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.pdb
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\bin\Debug\Mobile Phone System.exe.config
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\bin\Debug\Mobile Phone System.exe
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\bin\Debug\Mobile Phone System.pdb
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\bin\Debug\Mobile Phone System.xml
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile_Phone_System.Form1.resources
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile_Phone_System.Form2.resources
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile_Phone_System.Form3.resources
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile_Phone_System.Resources.resources
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.vbproj.GenerateResource.cache
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.vbproj.CoreCompileInputs.cache
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.exe
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.xml
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.pdb
+\\kcfs04\staffhome\AbrarH\VSStudio\Projects\Access 2 Computing\Visual Programming\Mobile Phone System\Mobile Phone System\obj\Debug\Mobile Phone System.vbprojAssemblyReference.cache
